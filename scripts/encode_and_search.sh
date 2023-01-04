@@ -51,6 +51,6 @@ if [[ $faiss_search ]]; then
   python -m pyserini.eval.trec_eval -c \
   -mrecip_rank \
   -mrecall.100 \
-  /store2/scratch/aooladip/mr-tydi/mrtydi-v1.0-swahili/qrels.test.txt \
+  mrtydi-v1.0-swahili/qrels.test.txt \
   runs/davlan-swahili-bert/swahili/mrtydi.test.trec > runs/davlan-swahili-bert/swahili/mrtydi.test.results
 fi
