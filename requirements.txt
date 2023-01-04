@@ -2,5 +2,6 @@ wandb==0.13.7
 faiss-cpu==1.7.2
 transformers==4.15.0
 datasets==1.17.0
+pyserini==0.19.2
 -e tools/tevatron
 tools/GradCache
