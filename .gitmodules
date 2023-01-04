@@ -1,0 +1,6 @@
+[submodule "tools/tevatron"]
+	path = tools/tevatron
+	url = https://github.com/texttron/tevatron.git
+[submodule "tools/GradCache"]
+	path = tools/GradCache
+	url = https://github.com/luyug/GradCache
