@@ -1,4 +1,4 @@
-# Zero-shot to Mr.Tydi Experiment
+# MS-Marco Finetuning Experiment
 
 This example demonstrates how we can train a Dense Retriever on the MS Marco Passage Ranking Dataset starting from an LM and then evaluate on the [Mr.Tydi](https://github.com/castorini/mr.tydi) Swahili test set.
 
