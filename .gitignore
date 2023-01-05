@@ -1,4 +1,8 @@
 mrtydi-v1.0-swahili/
+models/
+logs/
+runs/
+wandb/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -1,6 +1,7 @@
 [submodule "tools/tevatron"]
 	path = tools/tevatron
-	url = https://github.com/texttron/tevatron.git
+	url = https://github.com/theyorubayesian/tevatron.git
+	branch = allow-zero-or-more-group-negatives
 [submodule "tools/GradCache"]
 	path = tools/GradCache
 	url = https://github.com/luyug/GradCache
