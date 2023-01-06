@@ -35,6 +35,6 @@ wandb login
 
 ## Experiments
 
-1. [Training on MS Marco & Reporting Zero-Shot Results on Mr.TyDi Swahili](docs/miracl_finetuning_experiment.md)
+1. [Training on MS Marco & Reporting Zero-Shot Results on Mr.TyDi Swahili](docs/msmarco_finetuning_experiment.md)
 2. [Zero-Shot Evaluation of the Dense Retriever on Miracl Dev Set](docs/evaluating_on_miracl_dev_set.md)
 3. [Finetuning the Dense Retriever on the Miracl Train Set & Generating Rankings for the `testA` set](docs/miracl_finetuning_experiment.md)
